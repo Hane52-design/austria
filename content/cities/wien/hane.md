@@ -1,5 +1,5 @@
 ---
 title: "Hane"
 url: /wien/hane/
-shop: Möbel
+shop: Betten & Matratzen und Schränke ganu nach Maß
 ---
